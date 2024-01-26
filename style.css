@@ -1,0 +1,45 @@
+#body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    align-items: center;
+    
+    
+    
+}
+.chuckle{
+    background-color: white;
+    max-width:550px;
+    margin: auto;
+    text-align:justify;
+}
+.chuckle h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2em;
+    color: brown;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.chuckle h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:brown;
+   
+    text-align: center;
+}
+.chuckle img{
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: auto;
+    text-align: center;
+    
+}
+.chuckle p{
+    margin-bottom: 20px;
+    margin-inline: 20px;
+    ;
+}
+.source{
+    font-size: 0.8em;
+    color: black;
+    ;
+}
